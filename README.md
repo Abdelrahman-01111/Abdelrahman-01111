@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Medhat</h1>
-<h3 align="center">a Freshman CS student at Ain Shams University in Cairo, and I love to build cool stuff. ✨🪚 Don't forget to connect 🤝</h3>
+<h3 align="center">a Freshman CS student at Ain Shams University in Cairo, and I love to build cool stuff. ✨🪚</h3>
 
 - 🔭 I’m currently working on [Moneytor: expense tracker](https://github.com/Abdelrahman-01111/Moneytor-Expense-tracker)
 
